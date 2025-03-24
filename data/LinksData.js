@@ -2,10 +2,10 @@
 const webLinks = [
     // All social profile
     {
-        title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        title: 'Telegram',
+        url: 'https://t.me/tjd_162',
         type: 'social',
-        icon: '/twitter.svg',
+        icon: '/telegram-svgrepo-com.svg',
         on: true
     },
     {
